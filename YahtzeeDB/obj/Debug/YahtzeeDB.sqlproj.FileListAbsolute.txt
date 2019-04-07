@@ -1,0 +1,5 @@
+E:\workspaces\visual studio projects\YahtzeeWeb\YahtzeeDB\bin\Debug\YahtzeeDB.dacpac
+E:\workspaces\visual studio projects\YahtzeeWeb\YahtzeeDB\bin\Debug\YahtzeeDB.dll
+E:\workspaces\visual studio projects\YahtzeeWeb\YahtzeeDB\bin\Debug\YahtzeeDB.pdb
+E:\workspaces\visual studio projects\YahtzeeWeb\YahtzeeDB\obj\Debug\YahtzeeDB.dll
+E:\workspaces\visual studio projects\YahtzeeWeb\YahtzeeDB\obj\Debug\YahtzeeDB.pdb

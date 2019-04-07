@@ -3,3 +3,15 @@
 ################################################################################
 
 /packages
+/.vs
+/UnitTests/obj/Debug
+/YahtzeeDB/bin/Debug
+/Yahtzee/App_Data
+/Yahtzee/App_Start
+/Yahtzee/bin
+/Yahtzee/fonts
+/Yahtzee/obj
+/Yahtzee/Content
+/Yahtzee/Properties
+/Yahtzee/Scripts
+/UnitTests/bin/Debug
