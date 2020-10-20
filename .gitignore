@@ -4,14 +4,19 @@
 
 /packages
 /.vs
-/UnitTests/obj/Debug
+/UnitTests/obj
+/UnitTests/App.config
+/UnitTests/bin/Debug
+UnitTests/UnitTests.csproj
 /YahtzeeDB/bin/Debug
 /Yahtzee/App_Data
 /Yahtzee/App_Start
 /Yahtzee/bin
+/Yahtzee/obj
 /Yahtzee/fonts
 /Yahtzee/obj
 /Yahtzee/Content
 /Yahtzee/Properties
 /Yahtzee/Scripts
-/UnitTests/bin/Debug
+/Yahtzee/Web.config
+Yahtzee/Yahtzee.csproj
