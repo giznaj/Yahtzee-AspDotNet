@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yahtzee", "Yahtzee\Yahtzee.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{EA60439E-CABA-441A-AC43-AA42FED34D56}"
 EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "YahtzeeDB", "YahtzeeDB\YahtzeeDB.sqlproj", "{AFB8C4E7-19B8-49EE-9A2A-D749214FF0D8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,12 @@ Global
 		{EA60439E-CABA-441A-AC43-AA42FED34D56}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA60439E-CABA-441A-AC43-AA42FED34D56}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA60439E-CABA-441A-AC43-AA42FED34D56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFB8C4E7-19B8-49EE-9A2A-D749214FF0D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFB8C4E7-19B8-49EE-9A2A-D749214FF0D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFB8C4E7-19B8-49EE-9A2A-D749214FF0D8}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{AFB8C4E7-19B8-49EE-9A2A-D749214FF0D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFB8C4E7-19B8-49EE-9A2A-D749214FF0D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFB8C4E7-19B8-49EE-9A2A-D749214FF0D8}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
