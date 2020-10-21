@@ -2,21 +2,21 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/packages
+packages
 /.vs
-/UnitTests/obj
-/UnitTests/App.config
-/UnitTests/bin/Debug
+UnitTests/obj
+UnitTests/App.config
+UnitTests/bin/Debug
 UnitTests/UnitTests.csproj
-/YahtzeeDB/bin/Debug
-/Yahtzee/App_Data
-/Yahtzee/App_Start
-/Yahtzee/bin
-/Yahtzee/obj
-/Yahtzee/fonts
-/Yahtzee/obj
-/Yahtzee/Content
-/Yahtzee/Properties
-/Yahtzee/Scripts
-/Yahtzee/Web.config
+YahtzeeDB/bin/Debug
+Yahtzee/App_Data
+Yahtzee/App_Start
+Yahtzee/bin
+Yahtzee/obj
+Yahtzee/fonts
+Yahtzee/obj
+Yahtzee/Content
+Yahtzee/Properties
+Yahtzee/Scripts
+Yahtzee/Web.config
 Yahtzee/Yahtzee.csproj
